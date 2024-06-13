@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile! 👋
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)<br /> 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,azure,tensorflow&theme=light)](https://skillicons.dev)<br /> 
-[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,solidity,sass,figma&theme=light)](https://skillicons.dev)<br /> 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,react,nodejs,bootstrap,)](https://skillicons.dev)<br /> 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,threejs,sass,figma)](https://skillicons.dev)<br /> 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,SQL,mysql)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=aws,sql,gcp,sql,azure)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=sql,docker,sql,firebase,sql,azure,sql,tensorflow&theme=light)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=css,sql,bootstrap,sql,solidity,sql,sass,sql&theme=light)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=sql,html,sql,css,sql,js,sql,java,sql,c,sql,react,sql,nodejs,sql,bootstrap,)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,sql,tailwind,sql,threejs,sql,sass,sqlfigma)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=sql,mongodb,SQL,mysql)](https://skillicons.dev)<br /> 
 
 ## About Me
 
