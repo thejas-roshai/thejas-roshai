@@ -1,5 +1,9 @@
 # Welcome to My GitHub Profile! 👋
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,java,c,py,react,nodejs,mongodb,bootstrap,tailwind,threejs,mysql,r,docker,solidity,sass,figma,firebase,azure,vim,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= docker,firebase,azure,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,solidity,sass,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,react,nodejs,mongodb,bootstrap,tailwind,threejs,sass,figma)](https://skillicons.dev)
+
 ## About Me
 
 I'm a developer and an engineer by profession, currently working in the field of Machine Learning DevOps and full-stack web development. I have a passion for implementing my thoughts into code and am constantly learning new things to expand my skill set.
