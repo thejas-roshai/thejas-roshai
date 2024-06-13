@@ -2,7 +2,8 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)<br /> 
 [![My Skills](https://skillicons.dev/icons?i=docker,firebase,azure,tensorflow&theme=light)](https://skillicons.dev)<br /> 
 [![My Skills](https://skillicons.dev/icons?i=css,bootstrap,solidity,sass,figma&theme=light)](https://skillicons.dev)<br /> 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,react,nodejs,bootstrap,tailwind,threejs,sass,figma)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,react,nodejs,bootstrap,)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,threejs,sass,figma)](https://skillicons.dev)<br /> 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sql,mysql)](https://skillicons.dev)<br /> 
 
 ## About Me
