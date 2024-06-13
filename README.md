@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,azure,tensorflow&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,solidity,sass,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,azure,tensorflow&theme=light)](https://skillicons.dev)<br /> 
+[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,solidity,sass,figma&theme=light)](https://skillicons.dev)<br /> 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,react,nodejs,mongodb,bootstrap,tailwind,threejs,sass,figma)](https://skillicons.dev)
 
 ## About Me
